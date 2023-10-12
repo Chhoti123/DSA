@@ -15,4 +15,5 @@ int main(){
 else{
     cout<<"This is Rectangle";
 }
+return 0;
 }
